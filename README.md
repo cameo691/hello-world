@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Hey there!
+I'm Cameo, 29, from the Philippines. So nice to meet you! 😊
